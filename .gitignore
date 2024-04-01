@@ -5,3 +5,7 @@
 # Environment Variables
 .env
 */.env
+
+# TODO: Complete `INSTRUCTIONS.md` and remove ignored notation.
+# Empty instructional guide for repo navigation and templating.
+INSTRUCTIONS.md
