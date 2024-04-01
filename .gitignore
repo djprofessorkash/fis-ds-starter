@@ -1,0 +1,7 @@
+# Miscellaneous Generated Garbage Files
+.DS_Store
+*/.DS_Store
+
+# Environment Variables
+.env
+*/.env
