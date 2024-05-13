@@ -9,3 +9,22 @@
 # TODO: Complete `INSTRUCTIONS.md` and remove ignored notation.
 # Empty instructional guide for repo navigation and templating.
 INSTRUCTIONS.md
+
+# TODO: Complete each relevant instructional content notebook and remove ignored notation.
+# Non-updated content notebooks for all instructional phases.
+P1-Data-Analysis-and-Engineering/00-Reviewing-Basic-Patterns-in-Python.ipynb
+P1-Data-Analysis-and-Engineering/01a-Analyzing-Nested-Data.ipynb
+P1-Data-Analysis-and-Engineering/01b-Analyzing-Tabular-Data.ipynb
+P1-Data-Analysis-and-Engineering/02-Working-With-Python-DataFrames.ipynb
+P1-Data-Analysis-and-Engineering/03-Visualizing-Data-From-DataFrames.ipynb
+P1-Data-Analysis-and-Engineering/04-Data-Cleaning-and-Manipulation.ipynb
+P1-Data-Analysis-and-Engineering/05-Exploratory-Data-Analyses.ipynb
+P1-Data-Analysis-and-Engineering/06-Intermediate-Data-Manipulation.ipynb
+P2-Scientific-Computing-and-Quantitative-Methods/*.ipynb
+P3-Machine-Learning-Fundamentals/*.ipynb
+P4-Advanced-Machine-Learning/*.ipynb
+P5-Data-Science-Capstone/*.ipynb
+
+# TODO: Complete supplemental materials and share.
+# Supplemental materials compendium.
+Supplementary-Materials/
