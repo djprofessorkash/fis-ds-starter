@@ -12,7 +12,6 @@ INSTRUCTIONS.md
 
 # TODO: Complete each relevant instructional content notebook and remove ignored notation.
 # Non-updated content notebooks for all instructional phases.
-P1-Data-Analysis-and-Engineering/Content/05-Exploratory-Data-Analyses.ipynb
 P1-Data-Analysis-and-Engineering/Content/06-Intermediate-Data-Manipulation.ipynb
 P2-Scientific-Computing-and-Quantitative-Methods/*.ipynb
 P3-Machine-Learning-Fundamentals/*.ipynb
