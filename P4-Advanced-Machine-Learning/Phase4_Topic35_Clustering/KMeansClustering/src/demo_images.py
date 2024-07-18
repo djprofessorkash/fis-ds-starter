@@ -19,7 +19,7 @@ import numpy as np
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 # Default plot params
-plt.style.use('seaborn')
+# plt.style.use('seaborn')
 cmap = 'tab10'
 
 
